@@ -4,4 +4,3 @@ push 3
 pall
 rotr
 pall
-
