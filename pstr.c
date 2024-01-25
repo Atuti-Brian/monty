@@ -23,3 +23,4 @@ void f_pstr(stack_t **head, unsigned int counter)
 	}
 	printf("\n");
 }
+
